@@ -89,26 +89,33 @@ Deployment	Streamlit Cloud / Local Server
 <h3>📄 PDF Invoice Extraction</h3>
 
 Automatically extracts invoice details from multiple uploaded PDFs.
+<img width="407" height="510" alt="Image" src="https://github.com/user-attachments/assets/8428a314-a70f-4dcb-8657-59881ebe3337" />
 
 
 <h3>⚙️ GT & Port Time Prediction</h3>
 
 Predicts vessel Gross Tonnage and estimated time at port.
+<img width="726" height="352" alt="Image" src="https://github.com/user-attachments/assets/01732715-2bcf-4c15-a22e-fb0e057d2806" />
+<img width="735" height="354" alt="Image" src="https://github.com/user-attachments/assets/80214858-bd59-4979-b785-7d5ae0aa4772" />
 
 
 <h3>⚠️ Anomaly Detection</h3>
 
 Detects abnormal ship behavior (speed, heading, draft, etc.).
+<img width="570" height="533" alt="Image" src="https://github.com/user-attachments/assets/7fc2ed34-770c-4f80-87e3-3803668c8670" />
 
 
 <h3>📷 Damage Detection with YOLOv9</h3>
 
 YOLOv9 detects visible damages directly from uploaded images.
+<img width="352" height="479" alt="Image" src="https://github.com/user-attachments/assets/07ca56d0-3944-48f9-9ff1-da76297c8cd6" />
 
 
 <h3>📊 Dashboard Overview</h3>
 
 Visual BI dashboard summarizing key maritime KPIs.
+<img width="710" height="384" alt="Image" src="https://github.com/user-attachments/assets/485eadb3-f188-4334-9528-5a305e444fed" />
+<img width="713" height="380" alt="Image" src="https://github.com/user-attachments/assets/49f5b291-d670-498a-a0c5-887273df898c" />
 
 
 <h2>🧠 Insights & Benefits</h2>
